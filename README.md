@@ -10,6 +10,9 @@ from these 2D dimensions I made a 3D object. Each segment is 94% the size of the
 
 https://www.tinkercad.com/things/eAGt4ROaNIy-tentacle-sockets
 
+![image](https://github.com/user-attachments/assets/b883b5e1-19a7-4394-9690-d73232434d14)
+
+
 ## 3d printing & assembly
 
 printed wth regular PLA, the segments are conneted with cable ties and the tendon is a nylon cord.
